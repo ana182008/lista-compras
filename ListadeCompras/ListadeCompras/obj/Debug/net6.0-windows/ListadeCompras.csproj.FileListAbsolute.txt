@@ -1,0 +1,17 @@
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.csproj.AssemblyReference.cache
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.Form1.resources
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.csproj.GenerateResource.cache
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.GeneratedMSBuildEditorConfig.editorconfig
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.AssemblyInfoInputs.cache
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.AssemblyInfo.cs
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.csproj.CoreCompileInputs.cache
+D:\ana jullya\ListadeCompras\ListadeCompras\bin\Debug\net6.0-windows\ListadeCompras.exe
+D:\ana jullya\ListadeCompras\ListadeCompras\bin\Debug\net6.0-windows\ListadeCompras.deps.json
+D:\ana jullya\ListadeCompras\ListadeCompras\bin\Debug\net6.0-windows\ListadeCompras.runtimeconfig.json
+D:\ana jullya\ListadeCompras\ListadeCompras\bin\Debug\net6.0-windows\ListadeCompras.dll
+D:\ana jullya\ListadeCompras\ListadeCompras\bin\Debug\net6.0-windows\ListadeCompras.pdb
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.dll
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\refint\ListadeCompras.dll
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.pdb
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ListadeCompras.genruntimeconfig.cache
+D:\ana jullya\ListadeCompras\ListadeCompras\obj\Debug\net6.0-windows\ref\ListadeCompras.dll
